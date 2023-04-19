@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7faf55b21833f9342befefd8bb19936b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlAnim: {instanceID: 0}
+  - PlRb: {instanceID: 0}
+  - _bullet: {fileID: 2361534490966559075, guid: 3a36c238f09dfae4cb0cdc69f563f4a9,
+      type: 3}
+  - _startBullet: {instanceID: 0}
+  - CheckGrnd: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
