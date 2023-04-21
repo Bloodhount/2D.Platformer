@@ -1,0 +1,7321 @@
+fileFormatVersion: 2
+guid: 093422da9078cf74abee483a261a85f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7122373337708918961
+    second: SamusTexuresNormKrita_0
+  - first:
+      213: 5261160066462105462
+    second: SamusTexuresNormKrita_1
+  - first:
+      213: -7520030520313086211
+    second: SamusTexuresNormKrita_2
+  - first:
+      213: 5737464030929731748
+    second: SamusTexuresNormKrita_3
+  - first:
+      213: -1765785253573908378
+    second: SamusTexuresNormKrita_4
+  - first:
+      213: 7694317639068652044
+    second: SamusTexuresNormKrita_5
+  - first:
+      213: 6063449649501184540
+    second: SamusTexuresNormKrita_6
+  - first:
+      213: 7742525126104516578
+    second: SamusTexuresNormKrita_7
+  - first:
+      213: -9203165128463315115
+    second: SamusTexuresNormKrita_8
+  - first:
+      213: 1908655507298506285
+    second: SamusTexuresNormKrita_9
+  - first:
+      213: 7774546661756998260
+    second: SamusTexuresNormKrita_10
+  - first:
+      213: 908066490582837922
+    second: SamusTexuresNormKrita_11
+  - first:
+      213: -2166643608977691318
+    second: SamusTexuresNormKrita_12
+  - first:
+      213: -807554915216737385
+    second: SamusTexuresNormKrita_13
+  - first:
+      213: 8579396673794513089
+    second: SamusTexuresNormKrita_14
+  - first:
+      213: 5175741930607567470
+    second: SamusTexuresNormKrita_15
+  - first:
+      213: -8933507867435128814
+    second: SamusTexuresNormKrita_16
+  - first:
+      213: 101655335046406875
+    second: SamusTexuresNormKrita_17
+  - first:
+      213: -4070269887555393385
+    second: SamusTexuresNormKrita_18
+  - first:
+      213: -9213075678696878817
+    second: SamusTexuresNormKrita_19
+  - first:
+      213: 5219535414452972562
+    second: SamusTexuresNormKrita_20
+  - first:
+      213: 6169406803830928716
+    second: SamusTexuresNormKrita_21
+  - first:
+      213: -7167200243246105051
+    second: SamusTexuresNormKrita_22
+  - first:
+      213: 4184453030919325779
+    second: SamusTexuresNormKrita_23
+  - first:
+      213: -2271068799158447134
+    second: SamusTexuresNormKrita_24
+  - first:
+      213: -8891939493608138446
+    second: SamusTexuresNormKrita_25
+  - first:
+      213: 4397439795860121300
+    second: SamusTexuresNormKrita_26
+  - first:
+      213: -6964954845677698159
+    second: SamusTexuresNormKrita_27
+  - first:
+      213: 7394953425105224810
+    second: SamusTexuresNormKrita_28
+  - first:
+      213: -2459628280878592306
+    second: SamusTexuresNormKrita_29
+  - first:
+      213: -2057735579711662673
+    second: SamusTexuresNormKrita_30
+  - first:
+      213: -2154160222824994915
+    second: SamusTexuresNormKrita_31
+  - first:
+      213: 6206116573649666171
+    second: SamusTexuresNormKrita_32
+  - first:
+      213: -3011312204166711813
+    second: SamusTexuresNormKrita_33
+  - first:
+      213: 3864483476686309256
+    second: SamusTexuresNormKrita_34
+  - first:
+      213: -6128802851349670474
+    second: SamusTexuresNormKrita_35
+  - first:
+      213: -6243180116537745351
+    second: SamusTexuresNormKrita_36
+  - first:
+      213: 5239715694643119265
+    second: SamusTexuresNormKrita_37
+  - first:
+      213: -1839038691688729056
+    second: SamusTexuresNormKrita_38
+  - first:
+      213: 4664561798288642384
+    second: SamusTexuresNormKrita_39
+  - first:
+      213: -2327123620144772534
+    second: SamusTexuresNormKrita_40
+  - first:
+      213: -6853136965029073168
+    second: SamusTexuresNormKrita_41
+  - first:
+      213: -3176747112394183110
+    second: SamusTexuresNormKrita_42
+  - first:
+      213: 3672007612832760657
+    second: SamusTexuresNormKrita_43
+  - first:
+      213: -3181295315907340943
+    second: SamusTexuresNormKrita_44
+  - first:
+      213: -1821313327110906531
+    second: SamusTexuresNormKrita_45
+  - first:
+      213: 5280745366881974695
+    second: SamusTexuresNormKrita_46
+  - first:
+      213: -4431136176487524565
+    second: SamusTexuresNormKrita_47
+  - first:
+      213: -8134883495268472605
+    second: SamusTexuresNormKrita_48
+  - first:
+      213: 4420568178243325941
+    second: SamusTexuresNormKrita_49
+  - first:
+      213: -5988544630263055496
+    second: SamusTexuresNormKrita_50
+  - first:
+      213: 8953216182601777269
+    second: SamusTexuresNormKrita_51
+  - first:
+      213: 2194169194710458598
+    second: SamusTexuresNormKrita_52
+  - first:
+      213: 2148042105356286062
+    second: SamusTexuresNormKrita_53
+  - first:
+      213: -539745748827993032
+    second: SamusTexuresNormKrita_54
+  - first:
+      213: 1492046100991893412
+    second: SamusTexuresNormKrita_55
+  - first:
+      213: 3986699274414080679
+    second: SamusTexuresNormKrita_56
+  - first:
+      213: -335909700405626448
+    second: SamusTexuresNormKrita_57
+  - first:
+      213: -3157487451515208778
+    second: SamusTexuresNormKrita_58
+  - first:
+      213: 5601280958876613082
+    second: SamusTexuresNormKrita_59
+  - first:
+      213: -4862232057690597573
+    second: SamusTexuresNormKrita_60
+  - first:
+      213: -7907776760518426019
+    second: SamusTexuresNormKrita_61
+  - first:
+      213: -7121445254485624699
+    second: SamusTexuresNormKrita_62
+  - first:
+      213: 2157751683820363915
+    second: SamusTexuresNormKrita_63
+  - first:
+      213: -8029706444015377281
+    second: SamusTexuresNormKrita_64
+  - first:
+      213: 8718350711159595625
+    second: SamusTexuresNormKrita_65
+  - first:
+      213: -877823849006201251
+    second: SamusTexuresNormKrita_66
+  - first:
+      213: 2745198494657353998
+    second: SamusTexuresNormKrita_67
+  - first:
+      213: -2444746729232824898
+    second: SamusTexuresNormKrita_68
+  - first:
+      213: 6434858625462265141
+    second: SamusTexuresNormKrita_69
+  - first:
+      213: -3258605911037375739
+    second: SamusTexuresNormKrita_70
+  - first:
+      213: -8176911588849836385
+    second: SamusTexuresNormKrita_71
+  - first:
+      213: 4848598951508721894
+    second: SamusTexuresNormKrita_72
+  - first:
+      213: 7911469174426134810
+    second: SamusTexuresNormKrita_73
+  - first:
+      213: 9171182317946250713
+    second: SamusTexuresNormKrita_74
+  - first:
+      213: -677177673905352268
+    second: SamusTexuresNormKrita_75
+  - first:
+      213: -7280458841129319722
+    second: SamusTexuresNormKrita_76
+  - first:
+      213: 1432706764396263629
+    second: SamusTexuresNormKrita_77
+  - first:
+      213: 4557564760152224638
+    second: SamusTexuresNormKrita_78
+  - first:
+      213: 2502355019744364571
+    second: SamusTexuresNormKrita_79
+  - first:
+      213: -6865641566407143460
+    second: SamusTexuresNormKrita_80
+  - first:
+      213: 110677391889085751
+    second: SamusTexuresNormKrita_81
+  - first:
+      213: -8530837787242164339
+    second: SamusTexuresNormKrita_82
+  - first:
+      213: 6872967530931816675
+    second: SamusTexuresNormKrita_83
+  - first:
+      213: 5648314337087733364
+    second: SamusTexuresNormKrita_84
+  - first:
+      213: 7448991769186295840
+    second: SamusTexuresNormKrita_85
+  - first:
+      213: -4921025311803209739
+    second: SamusTexuresNormKrita_86
+  - first:
+      213: 1103506357707354755
+    second: SamusTexuresNormKrita_87
+  - first:
+      213: 8710793415825690691
+    second: SamusTexuresNormKrita_88
+  - first:
+      213: 7131721020697582755
+    second: SamusTexuresNormKrita_89
+  - first:
+      213: 5384142863021263789
+    second: SamusTexuresNormKrita_90
+  - first:
+      213: -1685603794749862110
+    second: SamusTexuresNormKrita_91
+  - first:
+      213: -6858647402422625592
+    second: SamusTexuresNormKrita_92
+  - first:
+      213: 8903397353485989208
+    second: SamusTexuresNormKrita_93
+  - first:
+      213: -210820897703952283
+    second: SamusTexuresNormKrita_94
+  - first:
+      213: -8083322456533140363
+    second: SamusTexuresNormKrita_95
+  - first:
+      213: 205628193809273633
+    second: SamusTexuresNormKrita_96
+  - first:
+      213: 7976897113975361993
+    second: SamusTexuresNormKrita_97
+  - first:
+      213: -1108336023633087120
+    second: SamusTexuresNormKrita_98
+  - first:
+      213: -3713049757304435076
+    second: SamusTexuresNormKrita_99
+  - first:
+      213: 6387322673870762109
+    second: SamusTexuresNormKrita_100
+  - first:
+      213: -5357761224776397514
+    second: SamusTexuresNormKrita_101
+  - first:
+      213: 4592833046532888559
+    second: SamusTexuresNormKrita_102
+  - first:
+      213: -7197654608134146648
+    second: SamusTexuresNormKrita_103
+  - first:
+      213: -8806201879343751378
+    second: SamusTexuresNormKrita_104
+  - first:
+      213: -3558980806250642979
+    second: SamusTexuresNormKrita_105
+  - first:
+      213: 4470561881026215252
+    second: SamusTexuresNormKrita_106
+  - first:
+      213: 6846528349196419029
+    second: SamusTexuresNormKrita_107
+  - first:
+      213: 4705872819726177973
+    second: SamusTexuresNormKrita_108
+  - first:
+      213: 8597866698054167032
+    second: SamusTexuresNormKrita_109
+  - first:
+      213: -3029899564296071989
+    second: SamusTexuresNormKrita_110
+  - first:
+      213: 5644656541114541063
+    second: SamusTexuresNormKrita_111
+  - first:
+      213: 8753953483354444687
+    second: SamusTexuresNormKrita_112
+  - first:
+      213: 6715542277255596221
+    second: SamusTexuresNormKrita_113
+  - first:
+      213: -848630459414197911
+    second: SamusTexuresNormKrita_114
+  - first:
+      213: -4113328671825351293
+    second: SamusTexuresNormKrita_115
+  - first:
+      213: 1881676275606635776
+    second: SamusTexuresNormKrita_116
+  - first:
+      213: -1182564390000073918
+    second: SamusTexuresNormKrita_117
+  - first:
+      213: 6318043255842708915
+    second: SamusTexuresNormKrita_118
+  - first:
+      213: -7704248969067107251
+    second: SamusTexuresNormKrita_119
+  - first:
+      213: 371634944398591584
+    second: SamusTexuresNormKrita_120
+  - first:
+      213: -3029837421539761594
+    second: SamusTexuresNormKrita_121
+  - first:
+      213: 7743175476734439608
+    second: SamusTexuresNormKrita_122
+  - first:
+      213: 397198392621621079
+    second: SamusTexuresNormKrita_123
+  - first:
+      213: -4022906812479383627
+    second: SamusTexuresNormKrita_124
+  - first:
+      213: -9120431870370685979
+    second: SamusTexuresNormKrita_125
+  - first:
+      213: 7186510710753530240
+    second: SamusTexuresNormKrita_126
+  - first:
+      213: -4751351638333410934
+    second: SamusTexuresNormKrita_127
+  - first:
+      213: -1418775222618846123
+    second: SamusTexuresNormKrita_128
+  - first:
+      213: 9003806172415574661
+    second: SamusTexuresNormKrita_129
+  - first:
+      213: 5530329194779455629
+    second: SamusTexuresNormKrita_130
+  - first:
+      213: 2124998710406188819
+    second: SamusTexuresNormKrita_131
+  - first:
+      213: 2873066166428978262
+    second: SamusTexuresNormKrita_132
+  - first:
+      213: 6055979167394341060
+    second: SamusTexuresNormKrita_133
+  - first:
+      213: -3764758886671266464
+    second: SamusTexuresNormKrita_134
+  - first:
+      213: 463782004141120970
+    second: SamusTexuresNormKrita_135
+  - first:
+      213: -6529363268743326485
+    second: SamusTexuresNormKrita_136
+  - first:
+      213: -3640555745081131038
+    second: SamusTexuresNormKrita_137
+  - first:
+      213: -2296092210063305584
+    second: SamusTexuresNormKrita_138
+  - first:
+      213: 4577934059191906820
+    second: SamusTexuresNormKrita_139
+  - first:
+      213: 4442643368029151526
+    second: SamusTexuresNormKrita_140
+  - first:
+      213: -3572837385942546004
+    second: SamusTexuresNormKrita_141
+  - first:
+      213: -8223351235776109772
+    second: SamusTexuresNormKrita_142
+  - first:
+      213: -7896134127195404846
+    second: SamusTexuresNormKrita_143
+  - first:
+      213: -3307463441095152524
+    second: SamusTexuresNormKrita_144
+  - first:
+      213: -8215596579100966676
+    second: SamusTexuresNormKrita_145
+  - first:
+      213: 3360517826518790383
+    second: SamusTexuresNormKrita_146
+  - first:
+      213: 3740707669093619898
+    second: SamusEnemy_LWalk1
+  - first:
+      213: 7893464688354154595
+    second: SamusEnemy_LWalk2
+  - first:
+      213: 4516202135708494736
+    second: SamusEnemy_LWalk3
+  - first:
+      213: 4288502346431221934
+    second: SamusEnemy_LWalk4
+  - first:
+      213: -8948422063042517216
+    second: SamusEnemy_LWalk5
+  - first:
+      213: 4894938125766361716
+    second: SamusEnemy_LWalk6
+  - first:
+      213: -1166236213415206648
+    second: SamusEnemy_LWalk7
+  - first:
+      213: 5751166058188668579
+    second: SamusEnemy_LWalk8
+  - first:
+      213: -479499632084887906
+    second: SamusEnemy_LWalk9
+  - first:
+      213: 5729742848746199454
+    second: SamusEnemy_LWalk10
+  - first:
+      213: 6868906665357926992
+    second: SamusEnemy_LWalk11
+  - first:
+      213: 5417597355644996465
+    second: SamusEnemy_RWalk1
+  - first:
+      213: -7450436402736279617
+    second: SamusEnemy_RWalk2
+  - first:
+      213: 7908163593102935994
+    second: SamusEnemy_RWalk3
+  - first:
+      213: -2666401199013611130
+    second: SamusEnemy_RWalk4
+  - first:
+      213: 3777751215635307566
+    second: SamusEnemy_RWalk5
+  - first:
+      213: -2081730674865837627
+    second: SamusEnemy_RWalk6
+  - first:
+      213: -268528503702605636
+    second: SamusEnemy_RWalk7
+  - first:
+      213: -4968189390931246853
+    second: SamusEnemy_RWalk8
+  - first:
+      213: 2248063614211432678
+    second: SamusEnemy_RWalk9
+  - first:
+      213: 1889979635565349447
+    second: SamusEnemy_RWalk10
+  - first:
+      213: -8020868756774703121
+    second: SamusTexuresNormKrita_168
+  - first:
+      213: 8486266845635072737
+    second: SamusTexuresNormKrita_169
+  - first:
+      213: 6550102633168057365
+    second: SamusTexuresNormKrita_170
+  - first:
+      213: -8002490896564719839
+    second: SamusTexuresNormKrita_171
+  - first:
+      213: 1787496552259185947
+    second: SamusTexuresNormKrita_172
+  - first:
+      213: -386614926865038871
+    second: SamusTexuresNormKrita_173
+  - first:
+      213: 2422116011302882704
+    second: SamusTexuresNormKrita_174
+  - first:
+      213: 4211727523107522809
+    second: SamusTexuresNormKrita_175
+  - first:
+      213: -5145862789455727108
+    second: SamusTexuresNormKrita_176
+  - first:
+      213: 6346424844779593284
+    second: SamusTexuresNormKrita_177
+  - first:
+      213: 4161830381284813664
+    second: SamusTexuresNormKrita_178
+  - first:
+      213: 2756997014301760756
+    second: SamusTexuresNormKrita_179
+  - first:
+      213: 5615297602816901810
+    second: SamusTexuresNormKrita_180
+  - first:
+      213: -1196668069794318331
+    second: SamusTexuresNormKrita_181
+  - first:
+      213: -1363131636062591502
+    second: SamusTexuresNormKrita_182
+  - first:
+      213: -1682630142646263816
+    second: SamusTexuresNormKrita_183
+  - first:
+      213: -2347099680526267716
+    second: SamusTexuresNormKrita_184
+  - first:
+      213: 4003400265007799616
+    second: SamusTexuresNormKrita_185
+  - first:
+      213: 3415844935048480205
+    second: SamusTexuresNormKrita_186
+  - first:
+      213: 6666617121413753191
+    second: SamusTexuresNormKrita_187
+  - first:
+      213: -2225330144567743299
+    second: SamusTexuresNormKrita_188
+  - first:
+      213: -7408856762023248771
+    second: SamusTexuresNormKrita_189
+  - first:
+      213: -770495870604995728
+    second: SamusTexuresNormKrita_190
+  - first:
+      213: -6656856433300654392
+    second: SamusTexuresNormKrita_191
+  - first:
+      213: -2570327635045095903
+    second: SamusTexuresNormKrita_192
+  - first:
+      213: 6651985839317232771
+    second: SamusTexuresNormKrita_193
+  - first:
+      213: -7881983678069022459
+    second: SamusTexuresNormKrita_194
+  - first:
+      213: -6080096877849891819
+    second: SamusTexuresNormKrita_195
+  - first:
+      213: 8320334317427462684
+    second: SamusTexuresNormKrita_196
+  - first:
+      213: -3447426396788176127
+    second: SamusTexuresNormKrita_197
+  - first:
+      213: -4156280083542243151
+    second: SamusTexuresNormKrita_198
+  - first:
+      213: 3179701089365449262
+    second: SamusTexuresNormKrita_199
+  - first:
+      213: 453844157475087974
+    second: SamusTexuresNormKrita_200
+  - first:
+      213: -863304351857799787
+    second: SamusTexuresNormKrita_201
+  - first:
+      213: -952363984093658146
+    second: SamusTexuresNormKrita_202
+  - first:
+      213: 7630351203439590101
+    second: SamusTexuresNormKrita_203
+  - first:
+      213: -5837996967104300586
+    second: SamusTexuresNormKrita_204
+  - first:
+      213: -3610710708210425780
+    second: SamusTexuresNormKrita_205
+  - first:
+      213: -3057529248674850106
+    second: SamusTexuresNormKrita_206
+  - first:
+      213: 4683593204068939802
+    second: SamusTexuresNormKrita_207
+  - first:
+      213: -5953451977821164248
+    second: SamusTexuresNormKrita_208
+  - first:
+      213: 4964503486759878433
+    second: SamusTexuresNormKrita_209
+  - first:
+      213: -7306618182605516210
+    second: SamusTexuresNormKrita_210
+  - first:
+      213: -3445660731476528326
+    second: SamusTexuresNormKrita_211
+  - first:
+      213: 668891135167804066
+    second: SamusTexuresNormKrita_212
+  - first:
+      213: 796624910684659636
+    second: SamusEnemy_Idle1
+  - first:
+      213: 5205083047241365614
+    second: SamusEnemy_Idle2
+  - first:
+      213: -1028939713513258200
+    second: SamusEnemy_Idle3
+  - first:
+      213: 3661535011418801220
+    second: SamusEnemy_Idle4
+  - first:
+      213: -5580871469946011315
+    second: SamusEnemy_Idle5
+  - first:
+      213: -7288343279380079961
+    second: SamusEnemy_Idle6
+  - first:
+      213: -5990744935977119717
+    second: SamusTexuresNormKrita_219
+  - first:
+      213: 7947651478646137467
+    second: SamusTexuresNormKrita_220
+  - first:
+      213: -5412906006456151992
+    second: SamusTexuresNormKrita_221
+  - first:
+      213: 3526713597076439090
+    second: SamusTexuresNormKrita_222
+  - first:
+      213: 2875590907369260102
+    second: SamusTexuresNormKrita_223
+  - first:
+      213: -1329294811417235874
+    second: SamusTexuresNormKrita_224
+  - first:
+      213: 6004878985774356248
+    second: SamusTexuresNormKrita_225
+  - first:
+      213: 2623199214719622032
+    second: SamusTexuresNormKrita_226
+  - first:
+      213: -674242830663418195
+    second: SamusTexuresNormKrita_227
+  - first:
+      213: 858717620837573299
+    second: SamusTexuresNormKrita_228
+  - first:
+      213: -3473707069849814920
+    second: SamusTexuresNormKrita_229
+  - first:
+      213: 7480742679464348593
+    second: SamusTexuresNormKrita_230
+  - first:
+      213: -1793048762249689561
+    second: SamusTexuresNormKrita_231
+  - first:
+      213: -5542917623247176756
+    second: SamusTexuresNormKrita_232
+  - first:
+      213: -845242173976260266
+    second: SamusTexuresNormKrita_233
+  - first:
+      213: -5435282905013078225
+    second: SamusTexuresNormKrita_234
+  - first:
+      213: -1999775920050632706
+    second: SamusTexuresNormKrita_235
+  - first:
+      213: -8903907805602639659
+    second: SamusTexuresNormKrita_236
+  - first:
+      213: -1819815598675683277
+    second: SamusTexuresNormKrita_237
+  - first:
+      213: -2908966229403753855
+    second: SamusTexuresNormKrita_238
+  - first:
+      213: -7083744166365885694
+    second: SamusTexuresNormKrita_239
+  - first:
+      213: -1300997092903814472
+    second: SamusTexuresNormKrita_240
+  - first:
+      213: 2838433241455737445
+    second: SamusTexuresNormKrita_241
+  - first:
+      213: -3274139266872161679
+    second: SamusTexuresNormKrita_242
+  - first:
+      213: 8168668527870747512
+    second: SamusTexuresNormKrita_243
+  - first:
+      213: -7665769824995131458
+    second: SamusTexuresNormKrita_244
+  - first:
+      213: -6636763457746144578
+    second: SamusTexuresNormKrita_245
+  - first:
+      213: -8201921007588608196
+    second: SamusTexuresNormKrita_246
+  - first:
+      213: -3783939876137833500
+    second: SamusTexuresNormKrita_247
+  - first:
+      213: -3867730998771953680
+    second: SamusTexuresNormKrita_248
+  - first:
+      213: 5759122496442517358
+    second: SamusTexuresNormKrita_249
+  - first:
+      213: -5676624698798692534
+    second: SamusTexuresNormKrita_250
+  - first:
+      213: 2540669635826994302
+    second: SamusTexuresNormKrita_251
+  - first:
+      213: -7066701848699615289
+    second: SamusTexuresNormKrita_252
+  - first:
+      213: -7151632319776177993
+    second: SamusTexuresNormKrita_253
+  - first:
+      213: 23652173267241397
+    second: SamusTexuresNormKrita_254
+  - first:
+      213: -1355845947324518320
+    second: SamusTexuresNormKrita_255
+  - first:
+      213: 1425146515410213356
+    second: SamusTexuresNormKrita_256
+  - first:
+      213: -2771118842813068621
+    second: SamusTexuresNormKrita_257
+  - first:
+      213: -5026084014812552930
+    second: SamusTexuresNormKrita_258
+  - first:
+      213: 5549151910985454626
+    second: SamusTexuresNormKrita_259
+  - first:
+      213: 7384352885188261061
+    second: SamusTexuresNormKrita_260
+  - first:
+      213: -620938590010803685
+    second: SamusTexuresNormKrita_261
+  - first:
+      213: -1023767882032550002
+    second: SamusTexuresNormKrita_262
+  - first:
+      213: 478982822353034966
+    second: SamusTexuresNormKrita_263
+  - first:
+      213: 9151298408417836409
+    second: SamusTexuresNormKrita_264
+  - first:
+      213: -600043488054325554
+    second: SamusTexuresNormKrita_265
+  - first:
+      213: 4622612856644493871
+    second: SamusTexuresNormKrita_266
+  - first:
+      213: 1045040739727691425
+    second: SamusTexuresNormKrita_267
+  - first:
+      213: -9022603303724249923
+    second: SamusTexuresNormKrita_268
+  - first:
+      213: 4666283991945540060
+    second: SamusTexuresNormKrita_269
+  - first:
+      213: 5221980377883161371
+    second: SamusTexuresNormKrita_270
+  - first:
+      213: -3040950126893679885
+    second: SamusTexuresNormKrita_271
+  - first:
+      213: 8458895355198793826
+    second: SamusTexuresNormKrita_272
+  - first:
+      213: 6294498215522539858
+    second: SamusTexuresNormKrita_273
+  - first:
+      213: -2296262235745773464
+    second: SamusTexuresNormKrita_274
+  - first:
+      213: -2890943756571764632
+    second: SamusTexuresNormKrita_275
+  - first:
+      213: -4183291160110036040
+    second: SamusTexuresNormKrita_276
+  - first:
+      213: -6047655204258771683
+    second: SamusTexuresNormKrita_277
+  - first:
+      213: 5873602355851187972
+    second: SamusTexuresNormKrita_278
+  - first:
+      213: -7633888531043279506
+    second: SamusTexuresNormKrita_279
+  - first:
+      213: 7983671111281869650
+    second: SamusTexuresNormKrita_280
+  - first:
+      213: -9066817563288862734
+    second: SamusTexuresNormKrita_281
+  - first:
+      213: 2703526796739058171
+    second: SamusTexuresNormKrita_282
+  - first:
+      213: 186307012995986909
+    second: SamusTexuresNormKrita_283
+  - first:
+      213: 6728364052355468011
+    second: SamusTexuresNormKrita_284
+  - first:
+      213: 5563804245533095073
+    second: SamusTexuresNormKrita_285
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 545
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b87adf80d0c7d260800000000000000
+      internalID: 7122373337708918961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 545
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fb1f3a435630940800000000000000
+      internalID: 5261160066462105462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 545
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe74a8a51c73a790800000000000000
+      internalID: -7520030520313086211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 545
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0c52343219f9f40800000000000000
+      internalID: 5737464030929731748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 545
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668aa1bdaabae77e0800000000000000
+      internalID: -1765785253573908378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 545
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0295b16025b7ca60800000000000000
+      internalID: 7694317639068652044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 579
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c122cf7a453b52450800000000000000
+      internalID: 6063449649501184540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_7
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 565
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e70ffd9499f27b60800000000000000
+      internalID: 7742525126104516578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_8
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 565
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f8eac731ac74080800000000000000
+      internalID: -9203165128463315115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_9
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 565
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26de174218ec7a10800000000000000
+      internalID: 1908655507298506285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_10
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 578
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47299bf5ffcb4eb60800000000000000
+      internalID: 7774546661756998260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_11
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 583
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa20ab79a91a9c00800000000000000
+      internalID: 908066490582837922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_12
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 580
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4da304fd198ee1e0800000000000000
+      internalID: -2166643608977691318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_13
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 583
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bb2ed451dfac4f0800000000000000
+      internalID: -807554915216737385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_14
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 578
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c890b8b1d3201770800000000000000
+      internalID: 8579396673794513089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 568
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6265f61ddde3d740800000000000000
+      internalID: 5175741930607567470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_16
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 568
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2182f532dedc50480800000000000000
+      internalID: -8933507867435128814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 569
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2e6f61df6296100800000000000000
+      internalID: 101655335046406875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 567
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798aa4c3a1f7387c0800000000000000
+      internalID: -4070269887555393385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_19
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 564
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d4b72bb74942080800000000000000
+      internalID: -9213075678696878817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_20
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 563
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c6a0f1ec38f6840800000000000000
+      internalID: 5219535414452972562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 563
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4578391dc22e9550800000000000000
+      internalID: 6169406803830928716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_22
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 563
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ef83b2a5df88c90800000000000000
+      internalID: -7167200243246105051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_23
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 565
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358c0478cd9221a30800000000000000
+      internalID: 4184453030919325779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_24
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 561
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e310b5b5fa8b70e0800000000000000
+      internalID: -2271068799158447134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_25
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 565
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239583f542c799480800000000000000
+      internalID: -8891939493608138446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_26
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 565
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6a8691238d60d30800000000000000
+      internalID: 4397439795860121300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_27
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 565
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193ceb24872875f90800000000000000
+      internalID: -6964954845677698159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_28
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 565
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6484f1c5f620a660800000000000000
+      internalID: 7394953425105224810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_29
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 565
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece0ab63c15adddd0800000000000000
+      internalID: -2459628280878592306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_30
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 565
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa59a9184647173e0800000000000000
+      internalID: -2057735579711662673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_31
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 566
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d976d39c0b2ea12e0800000000000000
+      internalID: -2154160222824994915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_32
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 567
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b708d0f642e802650800000000000000
+      internalID: 6206116573649666171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_33
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 555
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf538d2418ba536d0800000000000000
+      internalID: -3011312204166711813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_34
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 553
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88701444f3761a530800000000000000
+      internalID: 3864483476686309256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_35
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 549
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5d6ea474e12faa0800000000000000
+      internalID: -6128802851349670474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_36
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 558
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9306cf403c4cb59a0800000000000000
+      internalID: -6243180116537745351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_37
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 491
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a40e3fb9a537b840800000000000000
+      internalID: 5239715694643119265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_38
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 546
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026b1b5bd0c6a76e0800000000000000
+      internalID: -1839038691688729056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_39
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 498
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0511adbdd3adbb040800000000000000
+      internalID: 4664561798288642384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_40
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 505
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a89d8a56564bfd0800000000000000
+      internalID: -2327123620144772534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_41
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 486
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fee7526d34c4e0a0800000000000000
+      internalID: -6853136965029073168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_42
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 489
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e2f78155de9e3d0800000000000000
+      internalID: -3176747112394183110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_43
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 489
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1534d6ff77795f230800000000000000
+      internalID: 3672007612832760657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_44
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 490
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1759ab1f3c4c9d3d0800000000000000
+      internalID: -3181295315907340943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_45
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 492
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d9ed0cd2569b6e0800000000000000
+      internalID: -1821313327110906531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_46
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 539
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a93a4ebee9f84940800000000000000
+      internalID: 5280745366881974695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_47
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 522
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b271419ef117182c0800000000000000
+      internalID: -4431136176487524565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 489
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8a55fbf861b1f80800000000000000
+      internalID: -8134883495268472605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_49
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 489
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffc6914653095d30800000000000000
+      internalID: 4420568178243325941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_50
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 489
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bf89f236a64eca0800000000000000
+      internalID: -5988544630263055496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_51
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 489
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57002419ea6304c70800000000000000
+      internalID: 8953216182601777269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_52
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 489
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e062d3e141437e10800000000000000
+      internalID: 2194169194710458598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_53
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 489
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68f75cf9e06fcd10800000000000000
+      internalID: 2148042105356286062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_54
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 489
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c8414e9107288f0800000000000000
+      internalID: -539745748827993032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_55
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 489
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afd02e0600d4b410800000000000000
+      internalID: 1492046100991893412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_56
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 489
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a242cd1ed9935730800000000000000
+      internalID: 3986699274414080679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_57
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 487
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9f6be38eb965bf0800000000000000
+      internalID: -335909700405626448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_58
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 487
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbbea554e95e24d0800000000000000
+      internalID: -3157487451515208778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_59
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 487
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9fff0fa5fbbbd40800000000000000
+      internalID: 5601280958876613082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_60
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 487
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37d5d964b1e58cb0800000000000000
+      internalID: -4862232057690597573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_61
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 487
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52c53afeeee14290800000000000000
+      internalID: -7907776760518426019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_62
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 489
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5883ef6a54b8b2d90800000000000000
+      internalID: -7121445254485624699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_63
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 489
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b802d9369bfd1fd10800000000000000
+      internalID: 2157751683820363915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_64
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 489
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f746cc94880c09090800000000000000
+      internalID: -8029706444015377281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_65
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 492
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96221fda7cdcdf870800000000000000
+      internalID: 8718350711159595625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_66
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 492
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d568e983cd751d3f0800000000000000
+      internalID: -877823849006201251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_67
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 527
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e091df77c77e81620800000000000000
+      internalID: 2745198494657353998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_68
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 516
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb587467dc3821ed0800000000000000
+      internalID: -2444746729232824898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_69
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 486
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535698693d53d4950800000000000000
+      internalID: 6434858625462265141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_70
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 486
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b01a1503b17c2d0800000000000000
+      internalID: -3258605911037375739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_71
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 487
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e94daab36c58e80800000000000000
+      internalID: -8176911588849836385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_72
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 487
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e04203be0fa94340800000000000000
+      internalID: 4848598951508721894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_73
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 517
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a196f112c4f2bcd60800000000000000
+      internalID: 7911469174426134810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_74
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 519
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5a7872ab5964f70800000000000000
+      internalID: 9171182317946250713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_75
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 489
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1db015e7e2a96f0800000000000000
+      internalID: -677177673905352268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_76
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 425
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d282ace14d96fa90800000000000000
+      internalID: -7280458841129319722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_77
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 425
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8732f163ff1e310800000000000000
+      internalID: 1432706764396263629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_78
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 425
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7336b99009bf3f30800000000000000
+      internalID: 4557564760152224638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_79
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 425
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1847c5e1a62ab220800000000000000
+      internalID: 2502355019744364571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_80
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 425
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf452ffe5758b0a0800000000000000
+      internalID: -6865641566407143460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_81
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 425
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73537346084398100800000000000000
+      internalID: 110677391889085751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 425
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f83f61b306c9980800000000000000
+      internalID: -8530837787242164339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_83
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 425
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e80cf90e8fa16f50800000000000000
+      internalID: 6872967530931816675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_84
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 425
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e3cd9a6f7d26e40800000000000000
+      internalID: 5648314337087733364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_85
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 435
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02068213c82206760800000000000000
+      internalID: 7448991769186295840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_86
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 435
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f783473d8105bbb0800000000000000
+      internalID: -4921025311803209739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_87
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 435
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382388a8f21705f00800000000000000
+      internalID: 1103506357707354755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_88
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 435
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3401a1eb574f2e870800000000000000
+      internalID: 8710793415825690691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_89
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 435
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac9ddb9b76f8f260800000000000000
+      internalID: 7131721020697582755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_90
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 435
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab4652586158ba40800000000000000
+      internalID: 5384142863021263789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_91
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 435
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f42e587488b98e0800000000000000
+      internalID: -1685603794749862110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_92
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 435
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca91f2b68031d0a0800000000000000
+      internalID: -6858647402422625592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_93
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 433
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8557fa488b83f8b70800000000000000
+      internalID: 8903397353485989208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_94
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 433
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5608021b283031df0800000000000000
+      internalID: -210820897703952283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_95
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 433
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c77659d0542df80800000000000000
+      internalID: -8083322456533140363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_96
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 432
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1239ec7b0c98ad200800000000000000
+      internalID: 205628193809273633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_97
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 432
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1175869a1a3be60800000000000000
+      internalID: 7976897113975361993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_98
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 432
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075b49b32466e90f0800000000000000
+      internalID: -1108336023633087120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_99
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 431
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ec4861be8987cc0800000000000000
+      internalID: -3713049757304435076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_100
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 432
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d707dd1612454a850800000000000000
+      internalID: 6387322673870762109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_101
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 434
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d47dd7d8865a5b0800000000000000
+      internalID: -5357761224776397514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_102
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 434
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7944b62550dbf30800000000000000
+      internalID: 4592833046532888559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_103
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 435
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5f53ac44bcc1c90800000000000000
+      internalID: -7197654608134146648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_104
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 369
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f96594c061ac580800000000000000
+      internalID: -8806201879343751378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_105
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 369
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd14ff020d5fb9ec0800000000000000
+      internalID: -3558980806250642979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_106
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 369
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d38f04850aa0e30800000000000000
+      internalID: 4470561881026215252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_107
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 369
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df7e765241c30f50800000000000000
+      internalID: 6846528349196419029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_108
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 369
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6d1f1956e9e4140800000000000000
+      internalID: 4705872819726177973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_109
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 369
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9edab5532c15770800000000000000
+      internalID: 8597866698054167032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_110
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 369
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4950d3662a3f5d0800000000000000
+      internalID: -3029899564296071989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_111
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 368
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704a73ca739d55e40800000000000000
+      internalID: 5644656541114541063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_112
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 368
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8392ab005a4c7970800000000000000
+      internalID: 8753953483354444687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_113
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 375
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db800f5ee16623d50800000000000000
+      internalID: 6715542277255596221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_114
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 385
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9694a09e71f0934f0800000000000000
+      internalID: -848630459414197911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_115
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 385
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dab67cd558ae6c0800000000000000
+      internalID: -4113328671825351293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_116
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 385
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00540d56a9e0d1a10800000000000000
+      internalID: 1881676275606635776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_117
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 385
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243e40ae3ffa69fe0800000000000000
+      internalID: -1182564390000073918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_118
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 385
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd9e04edd23ea750800000000000000
+      internalID: 6318043255842708915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_119
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 385
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ce599a162051590800000000000000
+      internalID: -7704248969067107251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_120
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 385
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066000f4300582500800000000000000
+      internalID: 371634944398591584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_121
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 385
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642efe9faead3f5d0800000000000000
+      internalID: -3029837421539761594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_122
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 385
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0b54c2219457b60800000000000000
+      internalID: 7743175476734439608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_123
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 385
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f519965d1238500800000000000000
+      internalID: 397198392621621079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_124
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 385
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7daad7193cb28c0800000000000000
+      internalID: -4022906812479383627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_125
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 385
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb57683987bd6180800000000000000
+      internalID: -9120431870370685979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_126
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 385
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08111096a6d9bb360800000000000000
+      internalID: 7186510710753530240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_127
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 385
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81ba22dbdecf0eb0800000000000000
+      internalID: -4751351638333410934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_128
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 385
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c8da7b37f7f4ce0800000000000000
+      internalID: -1418775222618846123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_129
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 385
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582cc457202f3fc70800000000000000
+      internalID: 9003806172415574661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_130
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 385
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d803dc90a1dafbc40800000000000000
+      internalID: 5530329194779455629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_131
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 385
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f8ce181138d7d10800000000000000
+      internalID: 2124998710406188819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_132
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 325
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c413ac47e2fd720800000000000000
+      internalID: 2873066166428978262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_133
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 325
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0a4bf77f82b0450800000000000000
+      internalID: 6055979167394341060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_134
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 325
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dc6f63db3e0cbc0800000000000000
+      internalID: -3764758886671266464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_135
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 325
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acddc0a864faf6600800000000000000
+      internalID: 463782004141120970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_136
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 325
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4121d73ba0365a0800000000000000
+      internalID: -6529363268743326485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_137
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 325
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef7e6d96d52a7dc0800000000000000
+      internalID: -3640555745081131038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_138
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 324
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09492a7dc44a220e0800000000000000
+      internalID: -2296092210063305584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_139
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 325
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402bb4b95c6188f30800000000000000
+      internalID: 4577934059191906820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_140
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 325
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6216f17ea9077ad30800000000000000
+      internalID: 4442643368029151526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_141
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 321
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9c8a2c35bba6ec0800000000000000
+      internalID: -3572837385942546004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_142
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 321
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433ab48ce99c0ed80800000000000000
+      internalID: -8223351235776109772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_143
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 321
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5cda9c8db4b6290800000000000000
+      internalID: -7896134127195404846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_144
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 321
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47caee526878912d0800000000000000
+      internalID: -3307463441095152524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_145
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 321
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0c5cc70765cfd80800000000000000
+      internalID: -8215596579100966676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_146
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 321
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0350f8825f2ae20800000000000000
+      internalID: 3360517826518790383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_LWalk1
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 321
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab897e05ec9a9e330800000000000000
+      internalID: 3740707669093619898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_LWalk2
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 321
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368507c00583b8d60800000000000000
+      internalID: 7893464688354154595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_LWalk3
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 321
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09be3c02ae5ccae30800000000000000
+      internalID: 4516202135708494736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_LWalk4
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 321
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea05671a922d38b30800000000000000
+      internalID: 4288502346431221934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_LWalk5
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 321
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02725106b81d0d380800000000000000
+      internalID: -8948422063042517216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_LWalk6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 321
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47202d77a405ee340800000000000000
+      internalID: 4894938125766361716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_LWalk7
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 321
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801a037c752b0dfe0800000000000000
+      internalID: -1166236213415206648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_LWalk8
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 320
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae7e961f0f30df40800000000000000
+      internalID: 5751166058188668579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_LWalk9
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 321
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9656a700a97859f0800000000000000
+      internalID: -479499632084887906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_LWalk10
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 321
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e991ad173c2248f40800000000000000
+      internalID: 5729742848746199454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_LWalk11
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 320
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052e8f71832435f50800000000000000
+      internalID: 6868906665357926992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_RWalk1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 265
+        width: 23
+        height: 42
+      alignment: 9
+      pivot: {x: 0.54793775, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bc05f571c2f2b40800000000000000
+      internalID: 5417597355644996465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_RWalk2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 265
+        width: 29
+        height: 43
+      alignment: 9
+      pivot: {x: 0.51900995, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfc349d09bba9890800000000000000
+      internalID: -7450436402736279617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_RWalk3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 265
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7c39083e07fbd60800000000000000
+      internalID: 7908163593102935994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_RWalk4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 265
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6893e189c3a0ffad0800000000000000
+      internalID: -2666401199013611130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_RWalk5
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 265
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c1eb917b44d6430800000000000000
+      internalID: 3777751215635307566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_RWalk6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 265
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9669e0bf43c13e0800000000000000
+      internalID: -2081730674865837627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_RWalk7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 265
+        width: 29
+        height: 43
+      alignment: 9
+      pivot: {x: 0.47750014, y: 0.50000143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb03db4afbef54cf0800000000000000
+      internalID: -268528503702605636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_RWalk8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 265
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0cda052127d0bb0800000000000000
+      internalID: -4968189390931246853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_RWalk9
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 265
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0ad8542f9b23f10800000000000000
+      internalID: 2248063614211432678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_RWalk10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 265
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a489a077e8a3a10800000000000000
+      internalID: 1889979635565349447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_168
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 257
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef2a62bc5620b090800000000000000
+      internalID: -8020868756774703121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_169
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 257
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2d043ebb645c570800000000000000
+      internalID: 8486266845635072737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_170
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 257
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514355414a3a6ea50800000000000000
+      internalID: 6550102633168057365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_171
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 253
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f66f7bde071f090800000000000000
+      internalID: -8002490896564719839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_172
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 253
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1de4aac4a67ec810800000000000000
+      internalID: 1787496552259185947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_173
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 253
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1885bb5c772aaf0800000000000000
+      internalID: -386614926865038871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_174
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 253
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d8e7aeda51d9120800000000000000
+      internalID: 2422116011302882704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_175
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 253
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f84f891edf037a30800000000000000
+      internalID: 4211727523107522809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_176
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 253
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf537939e093698b0800000000000000
+      internalID: -5145862789455727108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_177
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 253
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e1dc285c7031850800000000000000
+      internalID: 6346424844779593284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_178
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 253
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06be8e37eaac1c930800000000000000
+      internalID: 4161830381284813664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_179
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 253
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcd4446d22d24620800000000000000
+      internalID: 2756997014301760756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_180
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 254
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2010c2b6b8ded40800000000000000
+      internalID: 5615297602816901810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_181
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 253
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5087bd11bb4946fe0800000000000000
+      internalID: -1196668069794318331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_182
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 213
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5646acffe251de0800000000000000
+      internalID: -1363131636062591502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_183
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 213
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff543bdcc816a8e0800000000000000
+      internalID: -1682630142646263816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_184
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 213
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba8cc9a64d6d6fd0800000000000000
+      internalID: -2347099680526267716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_185
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 213
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d9e71845fee8730800000000000000
+      internalID: 4003400265007799616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_186
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 213
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5c169ded4876f20800000000000000
+      internalID: 3415844935048480205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_187
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 213
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769676f53f4948c50800000000000000
+      internalID: 6666617121413753191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_188
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 213
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc2219160a0e11e0800000000000000
+      internalID: -2225330144567743299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_189
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 213
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c7adb57047e2990800000000000000
+      internalID: -7408856762023248771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_190
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 213
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0731fa38616ae45f0800000000000000
+      internalID: -770495870604995728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_191
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 213
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6375ce7581e93a0800000000000000
+      internalID: -6656856433300654392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_192
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 213
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12664c452ac545cd0800000000000000
+      internalID: -2570327635045095903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_193
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 213
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cae6b80e9905c50800000000000000
+      internalID: 6651985839317232771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_194
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 209
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501e447fa919d9290800000000000000
+      internalID: -7881983678069022459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_195
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 209
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cabc37a182f9ba0800000000000000
+      internalID: -6080096877849891819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_196
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 209
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1291ca8af3c77370800000000000000
+      internalID: 8320334317427462684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_197
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 193
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bc22615f74820d0800000000000000
+      internalID: -3447426396788176127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_198
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 193
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b80f61f84de156c0800000000000000
+      internalID: -4156280083542243151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_199
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 193
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2adc834b41902c20800000000000000
+      internalID: 3179701089365449262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_200
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 193
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66660bd4bd06c4600800000000000000
+      internalID: 453844157475087974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_201
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 193
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d8776144de404f0800000000000000
+      internalID: -863304351857799787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_202
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 193
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3c837900688c2f0800000000000000
+      internalID: -952363984093658146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_203
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 193
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dabd700ef374e960800000000000000
+      internalID: 7630351203439590101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_204
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 193
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9b0ff70b44bfea0800000000000000
+      internalID: -5837996967104300586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_205
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 193
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c402b62cdbd24edc0800000000000000
+      internalID: -3610710708210425780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_206
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 195
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca5e5a09597195d0800000000000000
+      internalID: -3057529248674850106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_207
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 193
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1876f054377ff040800000000000000
+      internalID: 4683593204068939802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_208
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 193
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d6f9a08f6116da0800000000000000
+      internalID: -5953451977821164248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_209
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 149
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fb28e3e9575e440800000000000000
+      internalID: 4964503486759878433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_210
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 149
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42536c997da99a90800000000000000
+      internalID: -7306618182605516210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_211
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 149
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3334d312dd8e20d0800000000000000
+      internalID: -3445660731476528326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_212
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 149
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2b51981f0684900800000000000000
+      internalID: 668891135167804066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_Idle1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 149
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf1694b22e2e0b00800000000000000
+      internalID: 796624910684659636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_Idle2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 149
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68ba39247b2c3840800000000000000
+      internalID: 5205083047241365614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_Idle3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 149
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82300c838c878b1f0800000000000000
+      internalID: -1028939713513258200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_Idle4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 149
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444064871b260d230800000000000000
+      internalID: 3661535011418801220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_Idle5
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 149
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4181c087f2cc82b0800000000000000
+      internalID: -5580871469946011315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusEnemy_Idle6
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 149
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aad177176a9ada90800000000000000
+      internalID: -7288343279380079961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_219
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 149
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b101d1798399cdca0800000000000000
+      internalID: -5990744935977119717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_220
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 149
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72af4f49eabb4e60800000000000000
+      internalID: 7947651478646137467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_221
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 149
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8405a9a7aae71e4b0800000000000000
+      internalID: -5412906006456151992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_222
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 149
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230084ac45761f030800000000000000
+      internalID: 3526713597076439090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_223
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 149
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6448619d1b628e720800000000000000
+      internalID: 2875590907369260102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_224
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 149
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ea4b379656d8de0800000000000000
+      internalID: -1329294811417235874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_225
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 137
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817d9425f9d955350800000000000000
+      internalID: 6004878985774356248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_226
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 137
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b527899c9776420800000000000000
+      internalID: 2623199214719622032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_227
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 137
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daef3f1c7bb94a6f0800000000000000
+      internalID: -674242830663418195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_228
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 137
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b264606027caeb00800000000000000
+      internalID: 858717620837573299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_229
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 137
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878b6df03d9eacfc0800000000000000
+      internalID: -3473707069849814920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_230
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 137
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb839115dfe0d760800000000000000
+      internalID: 7480742679464348593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_231
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 137
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726472596afcd17e0800000000000000
+      internalID: -1793048762249689561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_232
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 137
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb791f0ac99313b0800000000000000
+      internalID: -5542917623247176756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_233
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 137
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65157f698b81544f0800000000000000
+      internalID: -845242173976260266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_234
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 133
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2731f8cefef194b0800000000000000
+      internalID: -5435282905013078225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_235
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 81
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7800f556e5f34e0800000000000000
+      internalID: -1999775920050632706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_236
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 81
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d01a369607fe6480800000000000000
+      internalID: -8903907805602639659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_237
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 81
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3389834da57beb6e0800000000000000
+      internalID: -1819815598675683277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_238
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 81
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18228c070a641a7d0800000000000000
+      internalID: -2908966229403753855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_239
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 81
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b0404463c71bd90800000000000000
+      internalID: -7083744166365885694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_240
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 81
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baf6a7790ee1fde0800000000000000
+      internalID: -1300997092903814472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_241
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 81
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a31a39ef3246720800000000000000
+      internalID: 2838433241455737445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_242
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 81
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a4de41fabef82d0800000000000000
+      internalID: -3274139266872161679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_243
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 81
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87326a32fb0fc5170800000000000000
+      internalID: 8168668527870747512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_244
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 81
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfb14b85f6bd9590800000000000000
+      internalID: -7665769824995131458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_245
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 81
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb27fba5cca75e3a0800000000000000
+      internalID: -6636763457746144578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_246
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 81
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37fdda9c4cec2e80800000000000000
+      internalID: -8201921007588608196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_247
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 85
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb6e571bbebc7bc0800000000000000
+      internalID: -3783939876137833500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_248
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 84
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff4e63162f035ac0800000000000000
+      internalID: -3867730998771953680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_249
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 85
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67ca6ab5638cef40800000000000000
+      internalID: 5759122496442517358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_250
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 81
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4725e899e39831b0800000000000000
+      internalID: -5676624698798692534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_251
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 81
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cc61f9295424320800000000000000
+      internalID: 2540669635826994302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_252
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 81
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7c9ae0c180eed90800000000000000
+      internalID: -7066701848699615289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_253
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 81
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0c98fcb4c40cc90800000000000000
+      internalID: -7151632319776177993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_254
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 81
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b982c9b687045000800000000000000
+      internalID: 23652173267241397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_255
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 81
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050b1936b411f2de0800000000000000
+      internalID: -1355845947324518320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_256
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 81
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce959eb743327c310800000000000000
+      internalID: 1425146515410213356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_257
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 81
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba4cbf28120b89d0800000000000000
+      internalID: -2771118842813068621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_258
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 81
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1124d5c733cf3ab0800000000000000
+      internalID: -5026084014812552930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_259
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 81
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224d7fa234c820d40800000000000000
+      internalID: 5549151910985454626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_260
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 81
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4f6c933dd7a7660800000000000000
+      internalID: 7384352885188261061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_261
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 25
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1af21b64abf167f0800000000000000
+      internalID: -620938590010803685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_262
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 25
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8feef21988dac1f0800000000000000
+      internalID: -1023767882032550002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_263
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 25
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deddd3d650b5a600800000000000000
+      internalID: 478982822353034966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_264
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 25
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97db753ba61fffe70800000000000000
+      internalID: 9151298408417836409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_265
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 25
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece4cb470a73ca7f0800000000000000
+      internalID: -600043488054325554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_266
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 25
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22e276c6e1d62040800000000000000
+      internalID: 4622612856644493871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_267
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 25
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aec743140bb08e00800000000000000
+      internalID: 1045040739727691425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_268
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 25
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc004c591649c280800000000000000
+      internalID: -9022603303724249923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_269
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 25
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd171015198f1c040800000000000000
+      internalID: 4666283991945540060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_270
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 25
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1339c78c73387840800000000000000
+      internalID: 5221980377883161371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_271
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 25
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fab2d2a8ff5cc5d0800000000000000
+      internalID: -3040950126893679885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_272
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 25
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26863d62288046570800000000000000
+      internalID: 8458895355198793826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_273
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 25
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2591d8ff6cc8a5750800000000000000
+      internalID: 6294498215522539858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_274
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8689a37a9a90220e0800000000000000
+      internalID: -2296262235745773464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_275
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86818e368fd41e7d0800000000000000
+      internalID: -2890943756571764632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_276
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb0c999ad6f1f5c0800000000000000
+      internalID: -4183291160110036040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_277
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d0d1232a9621ca0800000000000000
+      internalID: -6047655204258771683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_278
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4075864193a338150800000000000000
+      internalID: 5873602355851187972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_279
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d9c3cb3dafe0690800000000000000
+      internalID: -7633888531043279506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_280
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253018f8392bbce60800000000000000
+      internalID: 7983671111281869650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_281
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fff4e8d6713c2280800000000000000
+      internalID: -9066817563288862734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_282
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 25
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf991683c4bd48520800000000000000
+      internalID: 2703526796739058171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_283
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 25
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd53ac0cd35e59200800000000000000
+      internalID: 186307012995986909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_284
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 25
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beac72c0573ff5d50800000000000000
+      internalID: 6728364052355468011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SamusTexuresNormKrita_285
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 6
+        width: 240
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a47fc6ab7a963d40800000000000000
+      internalID: 5563804245533095073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SamusTexuresNormKrita_95: -8083322456533140363
+      SamusTexuresNormKrita_12: -2166643608977691318
+      SamusTexuresNormKrita_87: 1103506357707354755
+      SamusTexuresNormKrita_58: -3157487451515208778
+      SamusTexuresNormKrita_36: -6243180116537745351
+      SamusTexuresNormKrita_126: 7186510710753530240
+      SamusTexuresNormKrita_261: -620938590010803685
+      SamusTexuresNormKrita_279: -7633888531043279506
+      SamusTexuresNormKrita_47: -4431136176487524565
+      SamusEnemy_Idle3: -1028939713513258200
+      SamusTexuresNormKrita_130: 5530329194779455629
+      SamusTexuresNormKrita_282: 2703526796739058171
+      SamusTexuresNormKrita_94: -210820897703952283
+      SamusTexuresNormKrita_13: -807554915216737385
+      SamusTexuresNormKrita_24: -2271068799158447134
+      SamusTexuresNormKrita_73: 7911469174426134810
+      SamusTexuresNormKrita_100: 6387322673870762109
+      SamusEnemy_LWalk7: -1166236213415206648
+      SamusTexuresNormKrita_174: 2422116011302882704
+      SamusTexuresNormKrita_37: 5239715694643119265
+      SamusTexuresNormKrita_76: -7280458841129319722
+      SamusTexuresNormKrita_186: 3415844935048480205
+      SamusTexuresNormKrita_235: -1999775920050632706
+      SamusTexuresNormKrita_85: 7448991769186295840
+      SamusEnemy_Idle5: -5580871469946011315
+      SamusTexuresNormKrita_53: 2148042105356286062
+      SamusTexuresNormKrita_145: -8215596579100966676
+      SamusTexuresNormKrita_208: -5953451977821164248
+      SamusTexuresNormKrita_141: -3572837385942546004
+      SamusTexuresNormKrita_25: -8891939493608138446
+      SamusTexuresNormKrita_63: 2157751683820363915
+      SamusTexuresNormKrita_236: -8903907805602639659
+      SamusTexuresNormKrita_57: -335909700405626448
+      SamusTexuresNormKrita_17: 101655335046406875
+      SamusTexuresNormKrita_52: 2194169194710458598
+      SamusTexuresNormKrita_69: 6434858625462265141
+      SamusTexuresNormKrita_267: 1045040739727691425
+      SamusTexuresNormKrita_173: -386614926865038871
+      SamusTexuresNormKrita_105: -3558980806250642979
+      SamusTexuresNormKrita_20: 5219535414452972562
+      SamusTexuresNormKrita_133: 6055979167394341060
+      SamusTexuresNormKrita_171: -8002490896564719839
+      SamusTexuresNormKrita_262: -1023767882032550002
+      SamusTexuresNormKrita_29: -2459628280878592306
+      SamusTexuresNormKrita_49: 4420568178243325941
+      SamusTexuresNormKrita_281: -9066817563288862734
+      SamusTexuresNormKrita_195: -6080096877849891819
+      SamusTexuresNormKrita_22: -7167200243246105051
+      SamusTexuresNormKrita_98: -1108336023633087120
+      SamusTexuresNormKrita_199: 3179701089365449262
+      SamusTexuresNormKrita_206: -3057529248674850106
+      SamusTexuresNormKrita_193: 6651985839317232771
+      SamusTexuresNormKrita_34: 3864483476686309256
+      SamusTexuresNormKrita_207: 4683593204068939802
+      SamusTexuresNormKrita_6: 6063449649501184540
+      SamusTexuresNormKrita_102: 4592833046532888559
+      SamusTexuresNormKrita_41: -6853136965029073168
+      SamusTexuresNormKrita_82: -8530837787242164339
+      SamusTexuresNormKrita_68: -2444746729232824898
+      SamusTexuresNormKrita_189: -7408856762023248771
+      SamusTexuresNormKrita_200: 453844157475087974
+      SamusTexuresNormKrita_99: -3713049757304435076
+      SamusEnemy_LWalk3: 4516202135708494736
+      SamusTexuresNormKrita_46: 5280745366881974695
+      SamusTexuresNormKrita_190: -770495870604995728
+      SamusTexuresNormKrita_266: 4622612856644493871
+      SamusTexuresNormKrita_202: -952363984093658146
+      SamusTexuresNormKrita_65: 8718350711159595625
+      SamusTexuresNormKrita_268: -9022603303724249923
+      SamusEnemy_Idle2: 5205083047241365614
+      SamusTexuresNormKrita_11: 908066490582837922
+      SamusEnemy_RWalk10: 1889979635565349447
+      SamusTexuresNormKrita_185: 4003400265007799616
+      SamusTexuresNormKrita_201: -863304351857799787
+      SamusTexuresNormKrita_79: 2502355019744364571
+      SamusTexuresNormKrita_257: -2771118842813068621
+      SamusTexuresNormKrita_80: -6865641566407143460
+      SamusTexuresNormKrita_0: 7122373337708918961
+      SamusTexuresNormKrita_71: -8176911588849836385
+      SamusEnemy_LWalk5: -8948422063042517216
+      SamusTexuresNormKrita_227: -674242830663418195
+      SamusTexuresNormKrita_232: -5542917623247176756
+      SamusTexuresNormKrita_211: -3445660731476528326
+      SamusTexuresNormKrita_109: 8597866698054167032
+      SamusTexuresNormKrita_280: 7983671111281869650
+      SamusTexuresNormKrita_142: -8223351235776109772
+      SamusTexuresNormKrita_238: -2908966229403753855
+      SamusTexuresNormKrita_273: 6294498215522539858
+      SamusTexuresNormKrita_191: -6656856433300654392
+      SamusTexuresNormKrita_283: 186307012995986909
+      SamusTexuresNormKrita_146: 3360517826518790383
+      SamusTexuresNormKrita_181: -1196668069794318331
+      SamusTexuresNormKrita_75: -677177673905352268
+      SamusTexuresNormKrita_89: 7131721020697582755
+      SamusTexuresNormKrita_115: -4113328671825351293
+      SamusTexuresNormKrita_117: -1182564390000073918
+      SamusTexuresNormKrita_35: -6128802851349670474
+      SamusEnemy_Idle1: 796624910684659636
+      SamusEnemy_LWalk2: 7893464688354154595
+      SamusTexuresNormKrita_239: -7083744166365885694
+      SamusTexuresNormKrita_16: -8933507867435128814
+      SamusTexuresNormKrita_172: 1787496552259185947
+      SamusTexuresNormKrita_2: -7520030520313086211
+      SamusTexuresNormKrita_40: -2327123620144772534
+      SamusTexuresNormKrita_179: 2756997014301760756
+      SamusTexuresNormKrita_247: -3783939876137833500
+      SamusTexuresNormKrita_90: 5384142863021263789
+      SamusTexuresNormKrita_265: -600043488054325554
+      SamusEnemy_RWalk3: 7908163593102935994
+      SamusEnemy_LWalk9: -479499632084887906
+      SamusTexuresNormKrita_4: -1765785253573908378
+      SamusTexuresNormKrita_113: 6715542277255596221
+      SamusTexuresNormKrita_67: 2745198494657353998
+      SamusTexuresNormKrita_83: 6872967530931816675
+      SamusTexuresNormKrita_278: 5873602355851187972
+      SamusTexuresNormKrita_242: -3274139266872161679
+      SamusEnemy_RWalk1: 5417597355644996465
+      SamusTexuresNormKrita_285: 5563804245533095073
+      SamusTexuresNormKrita_123: 397198392621621079
+      SamusTexuresNormKrita_110: -3029899564296071989
+      SamusTexuresNormKrita_134: -3764758886671266464
+      SamusTexuresNormKrita_197: -3447426396788176127
+      SamusTexuresNormKrita_230: 7480742679464348593
+      SamusTexuresNormKrita_78: 4557564760152224638
+      SamusTexuresNormKrita_139: 4577934059191906820
+      SamusTexuresNormKrita_246: -8201921007588608196
+      SamusTexuresNormKrita_136: -6529363268743326485
+      SamusTexuresNormKrita_44: -3181295315907340943
+      SamusTexuresNormKrita_61: -7907776760518426019
+      SamusTexuresNormKrita_72: 4848598951508721894
+      SamusTexuresNormKrita_269: 4666283991945540060
+      SamusTexuresNormKrita_112: 8753953483354444687
+      SamusTexuresNormKrita_169: 8486266845635072737
+      SamusEnemy_RWalk5: 3777751215635307566
+      SamusTexuresNormKrita_103: -7197654608134146648
+      SamusEnemy_LWalk8: 5751166058188668579
+      SamusTexuresNormKrita_243: 8168668527870747512
+      SamusTexuresNormKrita_256: 1425146515410213356
+      SamusTexuresNormKrita_177: 6346424844779593284
+      SamusEnemy_Idle4: 3661535011418801220
+      SamusTexuresNormKrita_101: -5357761224776397514
+      SamusTexuresNormKrita_224: -1329294811417235874
+      SamusTexuresNormKrita_226: 2623199214719622032
+      SamusTexuresNormKrita_263: 478982822353034966
+      SamusTexuresNormKrita_97: 7976897113975361993
+      SamusTexuresNormKrita_240: -1300997092903814472
+      SamusTexuresNormKrita_51: 8953216182601777269
+      SamusTexuresNormKrita_219: -5990744935977119717
+      SamusTexuresNormKrita_196: 8320334317427462684
+      SamusEnemy_LWalk4: 4288502346431221934
+      SamusTexuresNormKrita_168: -8020868756774703121
+      SamusTexuresNormKrita_60: -4862232057690597573
+      SamusTexuresNormKrita_245: -6636763457746144578
+      SamusTexuresNormKrita_272: 8458895355198793826
+      SamusEnemy_RWalk8: -4968189390931246853
+      SamusTexuresNormKrita_259: 5549151910985454626
+      SamusTexuresNormKrita_33: -3011312204166711813
+      SamusTexuresNormKrita_225: 6004878985774356248
+      SamusTexuresNormKrita_8: -9203165128463315115
+      SamusTexuresNormKrita_198: -4156280083542243151
+      SamusTexuresNormKrita_59: 5601280958876613082
+      SamusEnemy_RWalk6: -2081730674865837627
+      SamusTexuresNormKrita_88: 8710793415825690691
+      SamusTexuresNormKrita_254: 23652173267241397
+      SamusTexuresNormKrita_275: -2890943756571764632
+      SamusTexuresNormKrita_258: -5026084014812552930
+      SamusTexuresNormKrita_84: 5648314337087733364
+      SamusTexuresNormKrita_42: -3176747112394183110
+      SamusTexuresNormKrita_132: 2873066166428978262
+      SamusTexuresNormKrita_27: -6964954845677698159
+      SamusTexuresNormKrita_138: -2296092210063305584
+      SamusTexuresNormKrita_180: 5615297602816901810
+      SamusTexuresNormKrita_114: -848630459414197911
+      SamusTexuresNormKrita_176: -5145862789455727108
+      SamusEnemy_LWalk6: 4894938125766361716
+      SamusTexuresNormKrita_129: 9003806172415574661
+      SamusTexuresNormKrita_192: -2570327635045095903
+      SamusTexuresNormKrita_210: -7306618182605516210
+      SamusTexuresNormKrita_237: -1819815598675683277
+      SamusEnemy_RWalk2: -7450436402736279617
+      SamusTexuresNormKrita_9: 1908655507298506285
+      SamusTexuresNormKrita_28: 7394953425105224810
+      SamusEnemy_Idle6: -7288343279380079961
+      SamusTexuresNormKrita_131: 2124998710406188819
+      SamusTexuresNormKrita_143: -7896134127195404846
+      SamusEnemy_LWalk1: 3740707669093619898
+      SamusTexuresNormKrita_250: -5676624698798692534
+      SamusTexuresNormKrita_70: -3258605911037375739
+      SamusTexuresNormKrita_14: 8579396673794513089
+      SamusTexuresNormKrita_178: 4161830381284813664
+      SamusTexuresNormKrita_184: -2347099680526267716
+      SamusTexuresNormKrita_228: 858717620837573299
+      SamusTexuresNormKrita_137: -3640555745081131038
+      SamusTexuresNormKrita_231: -1793048762249689561
+      SamusTexuresNormKrita_140: 4442643368029151526
+      SamusTexuresNormKrita_32: 6206116573649666171
+      SamusTexuresNormKrita_251: 2540669635826994302
+      SamusEnemy_RWalk4: -2666401199013611130
+      SamusTexuresNormKrita_127: -4751351638333410934
+      SamusTexuresNormKrita_175: 4211727523107522809
+      SamusTexuresNormKrita_119: -7704248969067107251
+      SamusTexuresNormKrita_274: -2296262235745773464
+      SamusTexuresNormKrita_91: -1685603794749862110
+      SamusTexuresNormKrita_270: 5221980377883161371
+      SamusTexuresNormKrita_118: 6318043255842708915
+      SamusTexuresNormKrita_3: 5737464030929731748
+      SamusTexuresNormKrita_15: 5175741930607567470
+      SamusTexuresNormKrita_106: 4470561881026215252
+      SamusTexuresNormKrita_108: 4705872819726177973
+      SamusTexuresNormKrita_125: -9120431870370685979
+      SamusTexuresNormKrita_21: 6169406803830928716
+      SamusTexuresNormKrita_7: 7742525126104516578
+      SamusTexuresNormKrita_77: 1432706764396263629
+      SamusTexuresNormKrita_212: 668891135167804066
+      SamusTexuresNormKrita_64: -8029706444015377281
+      SamusTexuresNormKrita_234: -5435282905013078225
+      SamusTexuresNormKrita_93: 8903397353485989208
+      SamusTexuresNormKrita_284: 6728364052355468011
+      SamusTexuresNormKrita_62: -7121445254485624699
+      SamusTexuresNormKrita_38: -1839038691688729056
+      SamusTexuresNormKrita_116: 1881676275606635776
+      SamusTexuresNormKrita_229: -3473707069849814920
+      SamusEnemy_LWalk10: 5729742848746199454
+      SamusTexuresNormKrita_241: 2838433241455737445
+      SamusTexuresNormKrita_66: -877823849006201251
+      SamusTexuresNormKrita_244: -7665769824995131458
+      SamusTexuresNormKrita_233: -845242173976260266
+      SamusTexuresNormKrita_194: -7881983678069022459
+      SamusTexuresNormKrita_122: 7743175476734439608
+      SamusTexuresNormKrita_222: 3526713597076439090
+      SamusTexuresNormKrita_55: 1492046100991893412
+      SamusTexuresNormKrita_107: 6846528349196419029
+      SamusTexuresNormKrita_264: 9151298408417836409
+      SamusTexuresNormKrita_81: 110677391889085751
+      SamusTexuresNormKrita_253: -7151632319776177993
+      SamusTexuresNormKrita_43: 3672007612832760657
+      SamusTexuresNormKrita_220: 7947651478646137467
+      SamusTexuresNormKrita_209: 4964503486759878433
+      SamusTexuresNormKrita_271: -3040950126893679885
+      SamusTexuresNormKrita_111: 5644656541114541063
+      SamusTexuresNormKrita_10: 7774546661756998260
+      SamusEnemy_RWalk9: 2248063614211432678
+      SamusTexuresNormKrita_135: 463782004141120970
+      SamusTexuresNormKrita_30: -2057735579711662673
+      SamusTexuresNormKrita_183: -1682630142646263816
+      SamusTexuresNormKrita_221: -5412906006456151992
+      SamusTexuresNormKrita_188: -2225330144567743299
+      SamusTexuresNormKrita_39: 4664561798288642384
+      SamusTexuresNormKrita_144: -3307463441095152524
+      SamusTexuresNormKrita_223: 2875590907369260102
+      SamusTexuresNormKrita_276: -4183291160110036040
+      SamusTexuresNormKrita_23: 4184453030919325779
+      SamusTexuresNormKrita_121: -3029837421539761594
+      SamusTexuresNormKrita_45: -1821313327110906531
+      SamusTexuresNormKrita_104: -8806201879343751378
+      SamusTexuresNormKrita_170: 6550102633168057365
+      SamusTexuresNormKrita_128: -1418775222618846123
+      SamusEnemy_LWalk11: 6868906665357926992
+      SamusTexuresNormKrita_120: 371634944398591584
+      SamusTexuresNormKrita_19: -9213075678696878817
+      SamusTexuresNormKrita_249: 5759122496442517358
+      SamusTexuresNormKrita_252: -7066701848699615289
+      SamusTexuresNormKrita_74: 9171182317946250713
+      SamusTexuresNormKrita_5: 7694317639068652044
+      SamusTexuresNormKrita_260: 7384352885188261061
+      SamusTexuresNormKrita_204: -5837996967104300586
+      SamusTexuresNormKrita_86: -4921025311803209739
+      SamusTexuresNormKrita_54: -539745748827993032
+      SamusTexuresNormKrita_248: -3867730998771953680
+      SamusTexuresNormKrita_203: 7630351203439590101
+      SamusTexuresNormKrita_31: -2154160222824994915
+      SamusTexuresNormKrita_277: -6047655204258771683
+      SamusTexuresNormKrita_26: 4397439795860121300
+      SamusTexuresNormKrita_205: -3610710708210425780
+      SamusTexuresNormKrita_56: 3986699274414080679
+      SamusTexuresNormKrita_92: -6858647402422625592
+      SamusTexuresNormKrita_255: -1355845947324518320
+      SamusTexuresNormKrita_48: -8134883495268472605
+      SamusTexuresNormKrita_18: -4070269887555393385
+      SamusTexuresNormKrita_96: 205628193809273633
+      SamusTexuresNormKrita_1: 5261160066462105462
+      SamusEnemy_RWalk7: -268528503702605636
+      SamusTexuresNormKrita_187: 6666617121413753191
+      SamusTexuresNormKrita_50: -5988544630263055496
+      SamusTexuresNormKrita_124: -4022906812479383627
+      SamusTexuresNormKrita_182: -1363131636062591502
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
