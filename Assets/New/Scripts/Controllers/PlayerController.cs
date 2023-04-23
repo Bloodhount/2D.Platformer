@@ -24,7 +24,7 @@ namespace PlatformerMVC
         private float _jumpForce = 5f;
         private float _jumpTreshold = 1.2f;
         private float g = -9.8f;
-        private float _groundLevel = 0.5f;
+        private float _groundLevel = -0.5f;
         private float _yVelocity;
 
 
@@ -33,8 +33,6 @@ namespace PlatformerMVC
             _config = Resources.Load<AnimationConfig>("SpriteAnimsCfg");
             _playerAnimator = new SpriteAnimatorController(_config);
             _playerAnimator.StartAnimation(player._spriteRenderer, track: AnimState.Idle, true, _animationSpeed);
-            // or
-            //_playerAnimator.StartAnimation(_playerView._spriteRenderer, AnimState.Run, true, 20f);
             _playerView = player;
             _playerTransform = player.transform;
         }
