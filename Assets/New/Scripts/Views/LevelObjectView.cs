@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 namespace PlatformerMVC
@@ -11,5 +12,12 @@ namespace PlatformerMVC
         public Collider2D _collider;
         public Rigidbody2D _rigidbody;
 
+        #region MyTestRegion
+        TextMeshProUGUI text;
+        void MessageText(string s)
+        {
+            text.text = s;
+        }
+        #endregion
     }
 }

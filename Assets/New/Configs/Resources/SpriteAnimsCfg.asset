@@ -50,4 +50,12 @@ MonoBehaviour:
   - Track: 2
     Sprites:
     - {fileID: 1277021527, guid: f98aa3d998533f2479a54460b4d5a2d0, type: 3}
+  - Track: 3
+    Sprites:
     - {fileID: -1820817730, guid: f98aa3d998533f2479a54460b4d5a2d0, type: 3}
+  - Track: 4
+    Sprites:
+    - {fileID: 21300000, guid: 34d7edc209cc0a44bbd2d515e290b5dc, type: 3}
+  - Track: 5
+    Sprites:
+    - {fileID: 21300000, guid: b7d48df2dd5700641a5a1ada209269c3, type: 3}
