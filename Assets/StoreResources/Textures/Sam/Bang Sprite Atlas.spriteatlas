@@ -31,28 +31,13 @@ SpriteAtlas:
       enableAlphaDilation: 0
     secondaryTextureSettings: {}
     variantMultiplier: 1
-    packables:
-    - {fileID: -2272662669214834415, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
-    - {fileID: -2994041450687115533, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
-    - {fileID: -8825176644378503161, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
-    - {fileID: -288915957836111804, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
-    - {fileID: -7979528260891279421, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
+    packables: []
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
-  m_PackedSprites:
-  - {fileID: -7979528260891279421, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
-  - {fileID: -288915957836111804, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
-  - {fileID: -8825176644378503161, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
-  - {fileID: -2994041450687115533, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
-  - {fileID: -2272662669214834415, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
-  m_PackedSpriteNamesToIndex:
-  - Boom_5
-  - Boom_4
-  - Boom_3
-  - Boom_2
-  - Boom_1
+  m_PackedSprites: []
+  m_PackedSpriteNamesToIndex: []
   m_RenderDataMap: {}
   m_Tag: Bang Sprite Atlas
   m_IsVariant: 0

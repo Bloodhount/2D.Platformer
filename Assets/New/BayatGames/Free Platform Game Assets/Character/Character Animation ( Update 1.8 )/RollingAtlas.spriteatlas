@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RollingAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 1
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 530909723774822299, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
+    - {fileID: -4541712695534943327, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
+    - {fileID: 8925221823993370514, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
+    - {fileID: -3801569405739550214, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
+    - {fileID: 8287260759366252357, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
+    - {fileID: -5076472849364776512, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
+    - {fileID: 7315248766143316534, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
+    - {fileID: -1980199273764305088, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
+    - {fileID: 5063205509479285483, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 8925221823993370514, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
+  - {fileID: -4541712695534943327, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
+  - {fileID: 530909723774822299, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
+  - {fileID: 7315248766143316534, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
+  - {fileID: -5076472849364776512, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
+  - {fileID: 8287260759366252357, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
+  - {fileID: -3801569405739550214, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
+  - {fileID: 5063205509479285483, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
+  - {fileID: -1980199273764305088, guid: c1cb92b5708289441bac819b4c3368fe, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Roll_3
+  - Roll_2
+  - Roll_1
+  - Roll_7
+  - Roll_6
+  - Roll_5
+  - Roll_4
+  - Roll_9
+  - Roll_8
+  m_RenderDataMap: {}
+  m_Tag: RollingAtlas
+  m_IsVariant: 0

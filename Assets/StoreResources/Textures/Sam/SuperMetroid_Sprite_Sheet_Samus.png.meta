@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c1cb92b5708289441bac819b4c3368fe
+guid: 08ed0f8164d8a254592ffbf2e97435e8
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -1027,27 +1027,6 @@ TextureImporter:
       bones: []
       spriteID: 04d2cc2dcc5e64b4aac0b58fa60dc4b0
       internalID: 853507617021303546
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Super_Metroid_-_SNES_-_Sprite_Sheet_-_Samus_1
-      rect:
-        serializedVersion: 2
-        x: 107
-        y: 333
-        width: 26
-        height: 43
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 977f8779212ac9e43a94e4b27a1940ab
-      internalID: -1620646190673645854
       vertices: []
       indices: 
       edges: []

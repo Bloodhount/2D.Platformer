@@ -12,11 +12,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - 
-  - 
+  - Ground
   - PostProcessing
   - BackGround
   - 
@@ -56,4 +56,7 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 993850543
+    locked: 0
+  - name: Cannon
+    uniqueID: 363447969
     locked: 0
