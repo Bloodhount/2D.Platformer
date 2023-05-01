@@ -8,36 +8,36 @@ namespace PlatformerMVC
     public class CoinsManager : IDisposable//MonoBehaviour
     {
         private const float _animationsSpeed = 10;
-        private LevelObjectView _characterView;
+        private LevelObjectView _coinView;
         private SpriteAnimatorController _spriteAnimator;
-        private List<LevelObjectView> _coinViews;
+        [SerializeField] private List<InteractiveObjectView> _coinViews = new List<InteractiveObjectView>();
 
-        public CoinsManager(LevelObjectView characterView, List<LevelObjectView> coinViews, SpriteAnimatorController spriteAnimator)
+        public CoinsManager(List<CoinView> coinViews, SpriteAnimatorController spriteAnimator)
         {
-            _characterView = characterView;
+            // _coinView = coinView;
             _spriteAnimator = spriteAnimator;
-            _coinViews = coinViews;
-            _characterView.OnLevelObjectContact += OnLevelObjectContact;
+            // _coinViews = coinViews;
+          //  _coinView.OnLevelObjectContact += OnLevelObjectContact;
 
-            foreach (var coinView in coinViews)
+            foreach (CoinView coin in coinViews)
             {
-                _spriteAnimator.StartAnimation(coinView.SpriteRenderer,
-                AnimState.Coin_rotation, true, _animationsSpeed);
+                //_coinViews.Add(new CoinController());
+                // _spriteAnimator.StartAnimation(coinView.SpriteRenderer, AnimState.Coin_rotation, true, _animationsSpeed);
             }
 
         }
         private void OnLevelObjectContact(LevelObjectView contactView)
         {
-            if (_coinViews.Contains(contactView))
-            {
-                _spriteAnimator.StopAnimation(contactView.SpriteRenderer);
-                GameObject.Destroy(contactView.gameObject);
-            }
+            //if (_coinViews.Contains(contactView))
+            //{
+            //    _spriteAnimator.StopAnimation(contactView.SpriteRenderer);
+            //    GameObject.Destroy(contactView.gameObject);
+            //}
         }
 
         public void Dispose()
         {
-            _characterView.OnLevelObjectContact -= OnLevelObjectContact;
+            //_coinView.OnLevelObjectContact -= OnLevelObjectContact;
         }
     }
 }

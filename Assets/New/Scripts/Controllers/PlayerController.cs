@@ -4,7 +4,7 @@ namespace PlatformerMVC
 {
     public class PlayerController
     {
-        #region Fields // TODO вынести поля в модель и  инициализацию в отдельную модель
+        #region Fields 
         [SerializeField] private LevelObjectView _playerView;
         [SerializeField] private AnimationConfig _config;
         [SerializeField] private SpriteAnimatorController _playerAnimator;
@@ -12,6 +12,9 @@ namespace PlatformerMVC
 
         [SerializeField] private Transform _playerTransform;
         [SerializeField] private Rigidbody2D _playerRigidbody2D;
+
+        [SerializeField] private int _hp = 50;
+        public int Hp { get => _hp; private set => _hp = value; }
 
         private float _walkSpeed = 150f;
         private float _xAxisInput;
@@ -29,9 +32,10 @@ namespace PlatformerMVC
 
         private float _jumpForce = 5f;
         private float _jumpTreshold = 1.2f;
+
         #endregion
 
-        public PlayerController(LevelObjectView playerView)
+        public PlayerController(InteractiveObjectView playerView) // (LevelObjectView playerView)
         {
             _playerView = playerView;
             _playerTransform = playerView.transform;
@@ -41,6 +45,8 @@ namespace PlatformerMVC
             _playerAnimator = new SpriteAnimatorController(_config);
             _playerAnimator.StartAnimation(playerView.SpriteRenderer, track: AnimState.Fall, false, _animationSpeed / 2);
             _contactPooler = new ContactPooler(playerView.Collider2D);
+
+            playerView.TakeDamage += TakeBulletDamage;
         }
 
         private void MoveTowards()
@@ -48,6 +54,10 @@ namespace PlatformerMVC
             _xVelocity = Time.fixedDeltaTime * _walkSpeed * (_xAxisInput < 0 ? -1 : 1);
             _playerRigidbody2D.velocity = new Vector2(_xVelocity, _yVelocity);
             _playerTransform.localScale = _xAxisInput < 0 ? _leftScale : _rightScale;
+        }
+        public void TakeBulletDamage(BulletView bullet)
+        {
+            _hp -= bullet.DamagePoint; Debug.LogWarning(_hp);
         }
         private void Crouch()
         {
@@ -61,6 +71,15 @@ namespace PlatformerMVC
             }
         }
 
+        private void PlayerDie()
+        {
+            if (_hp <= 0)
+            {
+                _hp = 0;
+                _playerView.SpriteRenderer.enabled = false;
+                _playerView.Rigidbody2D.simulated = false;
+            }
+        }
         private void TempInputAnimTestMethod()
         {
 
@@ -91,6 +110,7 @@ namespace PlatformerMVC
         }
         public void Update()
         {
+            PlayerDie();
             _playerAnimator.Update();
             _contactPooler.Update();
 

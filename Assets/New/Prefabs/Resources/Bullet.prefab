@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 3336844244438476444}
   - component: {fileID: 3950676109143893520}
   - component: {fileID: 2082855110226275214}
+  - component: {fileID: 4215181704830512021}
   m_Layer: 0
   m_Name: Bullet
   m_TagString: Untagged
@@ -249,5 +250,20 @@ MonoBehaviour:
   SpriteRenderer: {fileID: 7883466605171910580}
   Collider2D: {fileID: 3336844244438476444}
   Rigidbody2D: {fileID: 3950676109143893520}
-  text: {fileID: 0}
   _trail: {fileID: 4323475140428086718}
+--- !u!58 &4215181704830512021
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1186600958412212634}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.452

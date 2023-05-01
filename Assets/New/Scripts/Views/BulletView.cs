@@ -8,8 +8,8 @@ namespace PlatformerMVC
     {
         [SerializeField] private TrailRenderer _trail;
 
-        //private int _damagePoint = 10;
-        //public int DamagePoint { get => _damagePoint; set => _damagePoint = value; }
+        private int _damagePoint = 10;
+        public int DamagePoint { get => _damagePoint; set => _damagePoint = value; }
 
         public void SetVisible(bool visible)
         {
