@@ -12,7 +12,8 @@ namespace PlatformerMVC
         Jump = 2,
         Fall = 3,
         Sit = 4,
-        Roll = 5
+        Roll = 5,
+        Coin_rotation = 6
     }
 
     [CreateAssetMenu(fileName = "SpriteAnimationsConfig", menuName = "Configs / Animations", order = 1)]

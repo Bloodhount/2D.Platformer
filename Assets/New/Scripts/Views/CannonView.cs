@@ -8,6 +8,7 @@ namespace PlatformerMVC
     {
         public Transform MuzzleTransform;
         public Transform EmitterTransform; // shot start pos
-        public List<LevelObjectView> Bullets;
+        public List<BulletView> Bullets;
+       // public List<LevelObjectView> Bullets;
     }
 }
