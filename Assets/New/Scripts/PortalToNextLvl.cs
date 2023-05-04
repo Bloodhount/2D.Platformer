@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 namespace PlatformerMVC
@@ -10,10 +8,7 @@ namespace PlatformerMVC
         {
             if (collision.attachedRigidbody && collision.attachedRigidbody.GetComponent<PlayerController>() is PlayerController playerHealth)
             {
-                // if (EnemyCounter._KeyIsAvailable && EnemyCounter._allEnemyDie)
-                // {
                 FindObjectOfType<GameManager>().NextScene();
-                // }
             }
             else
             {

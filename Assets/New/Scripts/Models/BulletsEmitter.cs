@@ -6,10 +6,9 @@ namespace PlatformerMVC
     // [Serializable]
     public class BulletsEmitter  // EmitterController
     {
-        private float _delay = 2;  // const
-        private float _startSpeed = 11;  // const
+        private float _delay = 2;  
+        private float _startSpeed = 11;  
 
-        //public List<LevelObjectView> Bullets;
         [SerializeField] private List<Bullet> _bulletsControllers = new List<Bullet>();
         private Transform _transform;
 
@@ -37,7 +36,7 @@ namespace PlatformerMVC
             {
                 _bulletsControllers[_currentIndex].Active(true);
                 _timeTillNextBullet = _delay;
-                _bulletsControllers[_currentIndex].Throw(_transform.position, _transform.up * _startSpeed); // -_transform.up 
+                _bulletsControllers[_currentIndex].Throw(_transform.position, _transform.up * _startSpeed); 
                 _currentIndex++;
                 if (_currentIndex >= _bulletsControllers.Count) _currentIndex = 0;
             }

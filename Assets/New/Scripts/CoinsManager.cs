@@ -1,11 +1,10 @@
 using System;
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 namespace PlatformerMVC
 {
-    public class CoinsManager : IDisposable//MonoBehaviour
+    public class CoinsManager : IDisposable
     {
         private const float _animationsSpeed = 10;
         private LevelObjectView _coinView;
@@ -14,10 +13,7 @@ namespace PlatformerMVC
 
         public CoinsManager(List<CoinView> coinViews, SpriteAnimatorController spriteAnimator)
         {
-            // _coinView = coinView;
             _spriteAnimator = spriteAnimator;
-            // _coinViews = coinViews;
-          //  _coinView.OnLevelObjectContact += OnLevelObjectContact;
 
             foreach (CoinView coin in coinViews)
             {

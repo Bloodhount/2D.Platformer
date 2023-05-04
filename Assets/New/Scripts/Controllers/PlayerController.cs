@@ -36,7 +36,7 @@ namespace PlatformerMVC
 
         #endregion
 
-        public PlayerController(InteractiveObjectView playerView) // (LevelObjectView playerView)
+        public PlayerController(InteractiveObjectView playerView) 
         {
             _playerView = playerView;
             _playerTransform = playerView.transform;
@@ -119,8 +119,6 @@ namespace PlatformerMVC
             _contactPooler.Update();
 
             _xAxisInput = Input.GetAxis(InputModel.HORIZONTAL);
-            //_xAxisInput = Input.GetAxis("Horizontal");
-            // _isJump = Input.GetAxis("Vertical") > 0;
             _isMoving = Mathf.Abs(_xAxisInput) > _movingTreshold;
             _yVelocity = _playerRigidbody2D.velocity.y;
 
@@ -135,15 +133,10 @@ namespace PlatformerMVC
                 _xVelocity = 0;
                 _playerRigidbody2D.velocity = new Vector2(_xVelocity, _playerRigidbody2D.velocity.y);
             }
-            ///////////////////////////////
-            //if (_contactsPoller.IsGrounded && _doJump &&Mathf.Abs(_view.Rigidbody2D.velocity.y - _contactsPoller.GroundVelocity.y) <= _jumpThresh)
-            //{
-            //    _view.Rigidbody2D.AddForce(Vector3.up * _jumpForse);
-            //}
-            ////////////////////////////
+
             if (_contactPooler.IsGrounded)
             {
-                if (Input.GetKeyDown(KeyCode.Space) && _yVelocity <= _jumpTreshold) // (_isJump && _yVelocity <= _jumpTreshold)
+                if (Input.GetKeyDown(KeyCode.Space) && _yVelocity <= _jumpTreshold) 
                 {
                     _playerRigidbody2D.AddForce(Vector2.up * _jumpForce, ForceMode2D.Impulse);
                 }
