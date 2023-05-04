@@ -1,23 +1,16 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 namespace PlatformerMVC
 {
     public class Bullet // BulletController
     {
-        private float _radius = 0.3f;
         private Vector3 _velocity;
-        private float _groundLevel = 0f;
-        private float _g = 10f;
-
         private BulletView _view;
 
         public Bullet(BulletView view)
         {
             _view = view;
             Active(false);
-            //_view.SetVisible(false);
         }
         public void Active(bool value)
         {

@@ -14,15 +14,16 @@ namespace PlatformerMVC
         [SerializeField] private Rigidbody2D _playerRigidbody2D;
 
         [SerializeField] private int _hp = 50;
+        [SerializeField] private int _coins = 0;
         public int Hp { get => _hp; private set => _hp = value; }
 
-        private float _walkSpeed = 150f;
+        private float _walkSpeed = 200f;
         private float _xAxisInput;
         private float _yVelocity;
         private float _xVelocity;
 
         private float _movingTreshold = 0.2f;
-        private float _animationSpeed = 20f;
+        private float _animationSpeed = 30f;
 
         private Vector3 _leftScale = new Vector3(-1, 1, 1);
         private Vector3 _rightScale = new Vector3(1, 1, 1);
@@ -30,7 +31,7 @@ namespace PlatformerMVC
         private bool _isMoving;
         private bool _isJump;
 
-        private float _jumpForce = 5f;
+        private float _jumpForce = 7f;
         private float _jumpTreshold = 1.2f;
 
         #endregion
@@ -59,6 +60,10 @@ namespace PlatformerMVC
         {
             _hp -= bullet.DamagePoint; Debug.LogWarning(_hp);
         }
+        public void CollectCoin(CoinView coin)
+        {
+            _coins += coin.AddCoinPoint; Debug.LogWarning(_coins);
+        }
         private void Crouch()
         {
             if (Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.DownArrow)) // LeftShift
@@ -70,7 +75,6 @@ namespace PlatformerMVC
                 _playerAnimator.StartAnimation(_playerView.SpriteRenderer, track: AnimState.Roll, true, _animationSpeed / 2);
             }
         }
-
         private void PlayerDie()
         {
             if (_hp <= 0)
@@ -131,7 +135,12 @@ namespace PlatformerMVC
                 _xVelocity = 0;
                 _playerRigidbody2D.velocity = new Vector2(_xVelocity, _playerRigidbody2D.velocity.y);
             }
-
+            ///////////////////////////////
+            //if (_contactsPoller.IsGrounded && _doJump &&Mathf.Abs(_view.Rigidbody2D.velocity.y - _contactsPoller.GroundVelocity.y) <= _jumpThresh)
+            //{
+            //    _view.Rigidbody2D.AddForce(Vector3.up * _jumpForse);
+            //}
+            ////////////////////////////
             if (_contactPooler.IsGrounded)
             {
                 if (Input.GetKeyDown(KeyCode.Space) && _yVelocity <= _jumpTreshold) // (_isJump && _yVelocity <= _jumpTreshold)
